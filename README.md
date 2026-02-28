@@ -5,12 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/paper-Elsevier-red.svg)](#citation)
 
-Official code repository for:
-
-> **Uncertainty-Aware Deep Reinforcement Learning for Sustainable Electric Vehicle Routing: A Hybrid Optimization Framework**  
-> Aymen Jalil Abdulelah, Emrullah Sonuç, Esam Taha Yassen, Ahmeed Suliman Farhan, Ali Al-kubaisi, Ahmed Shamil Mustafa  
-> *Transportation Research Part D: Transport and Environment*, 2025
-
 ---
 
 ## Abstract
