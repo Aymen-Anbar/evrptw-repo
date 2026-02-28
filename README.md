@@ -297,23 +297,6 @@ See `pretrained/README.md` for details.
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{abdulelah2025uncertainty,
-  title   = {Uncertainty-Aware Deep Reinforcement Learning for Sustainable
-             Electric Vehicle Routing: A Hybrid Optimization Framework},
-  author  = {Abdulelah, Aymen Jalil and Sonu\c{c}, Emrullah and
-             Yassen, Esam Taha and Farhan, Ahmeed Suliman and
-             Al-kubaisi, Ali and Mustafa, Ahmed Shamil},
-  journal = {Transportation Research Part D: Transport and Environment},
-  year    = {2025},
-  publisher = {Elsevier}
-}
-```
-
 ---
 
 ## License
